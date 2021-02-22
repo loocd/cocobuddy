@@ -1,0 +1,9 @@
+node_modules
+.history
+.eslintrc.json
+package-lock.json
+sitemap.xml
+resources/ignore
+
+
+
